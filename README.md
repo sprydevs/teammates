@@ -10,11 +10,9 @@ It is provided as a cloud-based service for educators/students and is currently 
 
 <img src="src/web/assets/images/overview.png" width="600">
 
-This is the developer web site for TEAMMATES. **Click [here](http://teammatesv4.appspot.com/) to go to the TEAMMATES product website.**
+## Quick Start
 
-[**Documentation for Developers** :book:](docs/README.md) |
-[Version History](https://github.com/TEAMMATES/teammates/milestones?direction=desc&sort=due_date&state=closed) |
-[Project Stats](https://www.openhub.net/p/teammatesonline)
+To work with your own copy of TEAMMATES, checkout the [**Development Guidelines**](https://github.com/a-aaronson/teammates/blob/master/docs/development.md#development-guidelines). To login, see [**Logging in to a TEAMMATES instance**](https://github.com/a-aaronson/teammates/blob/master/docs/development.md#logging-in-to-a-teammates-instance).
 
 ## Interested to join TEAMMATES developer team?
 
