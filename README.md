@@ -12,7 +12,7 @@ It is provided as a cloud-based service for educators/students and is currently 
 
 ## Quick Start
 
-To work with your own copy of TEAMMATES, checkout the [**Development Guidelines**](https://github.com/a-aaronson/teammates/blob/master/docs/development.md#development-guidelines). To login, append `/web/admin/home` to the URL.
+To work with your own copy of TEAMMATES, checkout the [**Development Guidelines**](docs/development.md#development-guidelines). To login, append `/web/admin/home` to the URL.
 
 ## Interested to join TEAMMATES developer team?
 
